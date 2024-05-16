@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Trabajador {
+public interface Trabajador {
+    void realizarTarea();
 }

@@ -5,6 +5,9 @@ public class Persona {
     private int edad;
     private String fechaNacimiento;
 
+    public Persona(String nombre, int edad, String fechaNacimiento) {
+    }
+
     // Método para establecer el nombre
     public void establecerNombre(String nombre) {
         this.nombre = nombre;
